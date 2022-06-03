@@ -59,4 +59,3 @@ my_list.add(5)
 my_list.add(4)
 print(my_list)
 print(my_list.size)
-
