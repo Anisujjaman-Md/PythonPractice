@@ -21,9 +21,3 @@ class Queue:
 
     def is_empty(self):
         return self.__list.size == 0
-
-
-my_queue = Queue()
-my_queue.enqueue(1)
-my_queue.enqueue(5)
-print(len(my_queue))

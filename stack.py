@@ -24,12 +24,3 @@ class Stack:
 
 
 my_stack = Stack()
-
-my_stack.push(5)
-my_stack.push(6)
-my_stack.push(7)
-my_stack.push(8)
-
-print(len(my_stack))
-print(my_stack.pop())
-print(my_stack.peek())
